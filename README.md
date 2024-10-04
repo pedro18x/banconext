@@ -18,7 +18,7 @@ Certifique-se de que você tenha os seguintes programas instalados em sua máqui
 ### **Clonando o Repositório**
 
 ```bash
-git clone https://github.com/adrianhajdin/banking.git
+git clone https://github.com/pedro18x/banconext
 cd banking
 ```
 
