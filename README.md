@@ -1,7 +1,7 @@
 
 
 
-Projeto Banco Horizon - Tutorial no youtube. Utiliza Node.js, Next.js, TypeScript, TailwindCSS e Appwrite.
+Projeto Banco Horizon - Projeto feito com um vídeo no [Youtube](https://www.youtube.com/watch?v=PuOVqP_cjkE&t=7013s). Utiliza Node.js, Next.js, TypeScript, TailwindCSS e Appwrite.
 
 ## 🤸 **Início Rápido**
 
