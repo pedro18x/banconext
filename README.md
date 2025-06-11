@@ -19,7 +19,7 @@ Certifique-se de que você tenha os seguintes programas instalados em sua máqui
 
 ```bash
 git clone https://github.com/pedro18x/banconext
-cd banking
+cd banconext
 ```
 
 ### **Instalação**
